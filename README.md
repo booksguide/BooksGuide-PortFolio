@@ -63,6 +63,6 @@ https://github.com/booksguide
 
 
 TEAM MEMBERS :
-![piyush](https://github.com/booksguide/BooksGuide-PortFolio/assets/150717133/16c33956-4666-48a9-97a4-e15a8111389a)
-![mandar](https://github.com/booksguide/BooksGuide-PortFolio/assets/150717133/c5ac2f21-02d2-4d00-9286-e7278a544b53)
-![ojasmaniyar](https://github.com/booksguide/BooksGuide-PortFolio/assets/150717133/d74df054-7708-4a46-bc17-ca8c77c699e8)
+1) Ojas Maniyar.
+2) Piyush Navangul.
+3) Mandar Ghule.
