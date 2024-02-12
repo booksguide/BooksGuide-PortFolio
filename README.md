@@ -63,6 +63,6 @@ https://github.com/booksguide
 
 
 TEAM MEMBERS :
-![ojasmaniyar](https://github.com/booksguide/BooksGuide-PortFolio/assets/150717133/5f91ca55-3209-46d8-a790-3d6e8a1c08cc)
+![ojasmaniyar]
 ![piyush](https://github.com/booksguide/BooksGuide-PortFolio/assets/150717133/16c33956-4666-48a9-97a4-e15a8111389a)
 ![mandar](https://github.com/booksguide/BooksGuide-PortFolio/assets/150717133/c5ac2f21-02d2-4d00-9286-e7278a544b53)
