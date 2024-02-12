@@ -62,5 +62,5 @@ SOURCE CODE :
 https://github.com/booksguide
 
 
-TEAM MEMBERS :![ojasmaniyar]([https://github.com/booksguide/BooksGuide-PortFolio/assets/150717133/b13b5b27-e943-42ed-a89e-e7b6d6de5910](https://github.com/ojasmaniyar5)https://github.com/ojasmaniyar5)
-
+TEAM MEMBERS :
+![ojasmaniyar](https://github.com/booksguide/BooksGuide-PortFolio/assets/150717133/5f91ca55-3209-46d8-a790-3d6e8a1c08cc)
